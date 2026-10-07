@@ -1,0 +1,5 @@
+order;entiteit;factuurdatum;referentie;totaal_excl;totaal_incl;medewerker;project;datum;omschrijving;eenheid;aantal;tarief;bedrag
+I01240777;OI;22-03-2024;week 9-12;823,10;995,47;Sanne Bakker;Interne Werkzaamheden;04-03-2024;Tekenaar ontwerp;Uren;8,0;37,31;298,48
+I01240777;OI;22-03-2024;week 9-12;823,10;995,47;Sanne Bakker;Interne Werkzaamheden;05-03-2024;Tekenaar ontwerp;Uren;8,0;37,31;298,48
+I01240777;OI;22-03-2024;week 9-12;823,10;995,47;Sanne Bakker;Interne Werkzaamheden;06-03-2024;Tekenaar ontwerp;Uren;6,0;37,31;223,86
+I01240777;OI;22-03-2024;week 9-12;823,10;995,47;Sanne Bakker;Interne Werkzaamheden;06-03-2024;Dagvergoeding;Kilometers;12,0;0,19;2,28

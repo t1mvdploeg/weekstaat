@@ -1,0 +1,7 @@
+bestand,order,entiteit,factuurdatum,excl,incl,referentie
+Order I01250491.pdf,I01250491,OI,2025-11-05,2387.84,2889.34,week 41-44
+Order I02250362.pdf,I02250362,OIAM,2025-08-15,596.96,722.34,week 29-32
+Orders I01250324 en I02250348.pdf [I01250324],I01250324,OI,2025-07-02,157.47,190.54,week 21-26
+Orders I01250324 en I02250348.pdf [I02250348],I02250348,OIAM,2025-07-02,9560.49,11568.11,week 21-26
+Order I01250361 (bijlage in Order per mail.eml).pdf,I01250361,OI,2025-08-15,3283.28,3972.85,week 29-32
+Order I02250362 (bijlage in Doorgestuurde order.eml).pdf,I02250362,OIAM,2025-08-15,596.96,722.34,week 29-32

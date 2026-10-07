@@ -1,0 +1,17 @@
+datum,rekening,aandeel,entiteit,bedrag,omschrijving,orders,medewerkers,verwacht,rest,betreft,opmerking
+2025-07-23,G-rekening,0.3,?,3470.43,Oeverland infra asset manag. Factuur:week 21-26 (ontvangst uit de debiteurenkaart; ontbreekt in de bankexport),I02250348,Thijmen Lucas Van Dijk,3470.43,0.0,nee,
+2025-07-24,Gewone rekening,0.7,?,8097.68,Oeverland Factuur week 21-26 (ontvangst uit de debiteurenkaart; ontbreekt in de bankexport),I02250348,Thijmen Lucas Van Dijk,8097.68,0.0,nee,
+2025-07-30,G-rekening,0.3,OI,57.16,Factuur:week 21-26,I01250324,Thijmen Lucas Van Dijk,57.16,0.0,nee,
+2025-07-30,Gewone rekening,0.7,OI,133.38,Factuur:week 21-26,I01250324,Thijmen Lucas Van Dijk,133.38,0.0,nee,
+2025-09-12,G-rekening,0.3,OI,1191.86,Factuur:week 29-32 S. Bakker,I01250361,Sanne Bakker,1191.86,0.0,ja,
+2025-09-12,Gewone rekening,0.7,OI,2781.0,Factuur:week 29-32 S. Bakker,I01250361,Sanne Bakker,2781.0,0.0,ja,
+2025-11-07,G-rekening,0.3,OI,10.94,Factuur:nabetaling Kim,,,0.0,10.94,mogelijk,geen order in de map bij deze betaling
+2025-11-07,Gewone rekening,0.7,OI,25.54,Factuur:nabetaling Kim,,,0.0,25.54,mogelijk,geen order in de map bij deze betaling
+2025-11-17,Gewone rekening,0.7,OI,991.86,week 35-36 aanvulling - Jeroen Hendri,,,0.0,991.86,mogelijk,geen order in de map bij deze betaling
+2025-11-19,G-rekening,0.3,OI,425.08,week 35-36 aanvulling - Jeroen Hendri,,,0.0,425.08,mogelijk,geen order in de map bij deze betaling
+2025-12-03,G-rekening,0.3,OI,1071.21,Correctie tarief cursusuren.week 41-44 S. Bakker.Week 41-44 J. Hendriks Oeverland In.Week 41-44 J. Hendriks maaltijdve,I01250491,Sanne Bakker,866.8,204.41,ja,verzamelbetaling; rest 204.41 hoort bij een order die niet in de map zit
+2025-12-03,Gewone rekening,0.7,OIAM,3280.78,Week 41-44 J. Hendriks Oeverland As,,,0.0,3280.78,mogelijk,geen order in de map bij deze betaling
+2025-12-03,Gewone rekening,0.7,OI,2499.5,Correctie tarief cursusuren.week 41-44 S. Bakker.Week 41-44 J. Hendriks Oeverland In.Week 41-44 J. Hendriks maaltijdve,I01250491,Sanne Bakker,2022.54,476.96,ja,verzamelbetaling; rest 476.96 hoort bij een order die niet in de map zit
+2025-12-05,G-rekening,0.3,OIAM,1406.05,Week 41-44 J. Hendriks Oeverland As,,,0.0,1406.05,mogelijk,geen order in de map bij deze betaling
+2025-12-12,G-rekening,0.3,OI,1271.45,Factuur:202510-0359,,,0.0,1271.45,mogelijk,geen order in de map bij deze betaling
+2025-12-12,Gewone rekening,0.7,OI,2966.71,Factuur:202510-0359,,,0.0,2966.71,mogelijk,geen order in de map bij deze betaling

@@ -1,0 +1,3 @@
+medewerker;urenstaat;datum;uren;soort;tarief;status;factuurnummer;factuurdatum;bedrag;creditnummer;creditbedrag;factuurbedrag
+Sanne Bakker;TS-000101;12-05-2025;8,0;Normale Uren;37,31;Goedgekeurd;2025-0471;30-05-2025;298,48;;0,0;298,48
+Sanne Bakker;TS-000101;12-05-2025;0,0;;37,31;Goedgekeurd;2025-0471;30-05-2025;9,88;;0,0;9,88

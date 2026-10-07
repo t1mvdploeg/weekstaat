@@ -1,0 +1,58 @@
+datum,order,urenstaten,facturen,fact_uren,fact_bedrag_uren,fact_onkosten,entiteit,projecten,order_uren,order_bedrag_uren,order_km,order_onkosten,km_zonder_bedrag,niet_facturabel,verzamel,week,periode,fact_tarief,order_tarief,status,toelichting
+2025-07-07,—,TS-100968,202510-0471,8.0,298.48,0.0,,,0.0,0.0,0.0,0.0,False,False,,2025 wk 28,2025 wk 25-28,37.31,,Geen order - hele periode ontbreekt,
+2025-07-08,—,TS-100968,202510-0471,8.0,298.48,0.0,,,0.0,0.0,0.0,0.0,False,False,,2025 wk 28,2025 wk 25-28,37.31,,Geen order - hele periode ontbreekt,
+2025-07-09,—,TS-100968,202510-0471,8.0,298.48,0.0,,,0.0,0.0,0.0,0.0,False,False,,2025 wk 28,2025 wk 25-28,37.31,,Geen order - hele periode ontbreekt,
+2025-07-10,—,TS-100968,202510-0471,8.0,298.48,0.0,,,0.0,0.0,0.0,0.0,False,False,,2025 wk 28,2025 wk 25-28,37.31,,Geen order - hele periode ontbreekt,
+2025-07-14,I01250361,TS-100882,202510-0438,8.0,298.48,495.65,OI,Ringweg Oost Ontwerp,8.0,298.48,0.0,0.0,False,False,,2025 wk 29,2025 wk 29-32,37.31,37.31,"Uren kloppen, onkosten wijken af",onkosten 495.65 niet op order
+2025-07-15,I01250361,TS-100882,202510-0438,8.0,298.48,0.0,OI,Ringweg Oost Ontwerp,8.0,298.48,0.0,0.0,False,False,,2025 wk 29,2025 wk 29-32,37.31,37.31,Klopt,
+2025-07-16,I01250361,TS-100882,202510-0438,8.0,298.48,0.0,OI,Ringweg Oost Ontwerp,8.0,298.48,0.0,0.0,False,False,,2025 wk 29,2025 wk 29-32,37.31,37.31,Klopt,
+2025-07-17,I01250361,TS-100882,202510-0438,8.0,298.48,0.0,OI,Ringweg Oost Ontwerp,8.0,298.48,0.0,0.0,False,False,,2025 wk 29,2025 wk 29-32,37.31,37.31,Klopt,
+2025-07-21,I02250362,TS-101603,202510-0459,8.0,298.48,0.0,OIAM,Ringweg Oost Instandhouding,8.0,298.48,0.0,0.0,False,False,,2025 wk 30,2025 wk 29-32,37.31,37.31,Klopt,
+2025-07-22,I02250362,TS-101603,202510-0459,8.0,298.48,0.0,OIAM,Ringweg Oost Instandhouding,8.0,298.48,0.0,0.0,False,False,,2025 wk 30,2025 wk 29-32,37.31,37.31,Klopt,
+2025-07-28,I01250361,TS-101607,202510-0913,8.0,298.48,10.07,OI,Interne Werkzaamheden,8.0,298.48,0.0,0.0,False,False,,2025 wk 31,2025 wk 29-32,37.31,37.31,"Uren kloppen, onkosten wijken af",onkosten 10.07 niet op order
+2025-07-29,I01250361,TS-101607,202510-0913,8.0,298.48,10.07,OI,Interne Werkzaamheden,8.0,298.48,0.0,0.0,False,False,,2025 wk 31,2025 wk 29-32,37.31,37.31,"Uren kloppen, onkosten wijken af",onkosten 10.07 niet op order
+2025-07-30,I01250361,TS-101607,202510-0913,8.0,298.48,10.07,OI,Interne Werkzaamheden,8.0,298.48,0.0,0.0,False,False,,2025 wk 31,2025 wk 29-32,37.31,37.31,"Uren kloppen, onkosten wijken af",onkosten 10.07 niet op order
+2025-07-31,I01250361,TS-101607,202510-0913,8.0,298.48,10.07,OI,Interne Werkzaamheden,8.0,298.48,0.0,0.0,False,False,,2025 wk 31,2025 wk 29-32,37.31,37.31,"Uren kloppen, onkosten wijken af",onkosten 10.07 niet op order
+2025-08-04,—,TS-100952,202510-0474,8.0,298.48,0.0,,,0.0,0.0,0.0,0.0,False,False,,2025 wk 32,2025 wk 29-32,37.31,,Geen order - dag ontbreekt in periode,
+2025-08-05,I01250361,TS-100952,202510-0474,8.0,298.48,0.0,OI,Interne Werkzaamheden,8.0,298.48,0.0,0.0,False,False,,2025 wk 32,2025 wk 29-32,37.31,37.31,Klopt,
+2025-08-06,I01250361,TS-100952,202510-0474,8.0,298.48,0.0,OI,Interne Werkzaamheden,8.0,298.48,0.0,0.0,False,False,,2025 wk 32,2025 wk 29-32,37.31,37.31,Klopt,
+2025-08-07,I01250361,TS-100952,202510-0474,8.0,298.48,0.0,OI,Interne Werkzaamheden,8.0,298.48,0.0,0.0,False,False,,2025 wk 32,2025 wk 29-32,37.31,37.31,Klopt,
+2025-08-11,—,TS-101048,202510-0942,8.0,298.48,10.07,,,0.0,0.0,0.0,0.0,False,False,,2025 wk 33,2025 wk 33-36,37.31,,Geen order - hele periode ontbreekt,
+2025-08-12,—,TS-101048,202510-0942,8.0,298.48,10.07,,,0.0,0.0,0.0,0.0,False,False,,2025 wk 33,2025 wk 33-36,37.31,,Geen order - hele periode ontbreekt,
+2025-08-13,—,TS-101048,202510-0942,8.0,298.48,10.07,,,0.0,0.0,0.0,0.0,False,False,,2025 wk 33,2025 wk 33-36,37.31,,Geen order - hele periode ontbreekt,
+2025-08-14,—,TS-101048,202510-0942,8.0,298.48,10.07,,,0.0,0.0,0.0,0.0,False,False,,2025 wk 33,2025 wk 33-36,37.31,,Geen order - hele periode ontbreekt,
+2025-08-18,—,TS-101128,202610-0397,8.0,298.48,0.0,,,0.0,0.0,0.0,0.0,False,False,,2025 wk 34,2025 wk 33-36,37.31,,Geen order - hele periode ontbreekt,
+2025-08-19,—,TS-101128,202610-0397,8.0,298.48,0.0,,,0.0,0.0,0.0,0.0,False,False,,2025 wk 34,2025 wk 33-36,37.31,,Geen order - hele periode ontbreekt,
+2025-08-20,—,TS-101128,202610-0397,8.0,298.48,0.0,,,0.0,0.0,0.0,0.0,False,False,,2025 wk 34,2025 wk 33-36,37.31,,Geen order - hele periode ontbreekt,
+2025-08-21,—,TS-101128,202610-0397,8.0,298.48,0.0,,,0.0,0.0,0.0,0.0,False,False,,2025 wk 34,2025 wk 33-36,37.31,,Geen order - hele periode ontbreekt,
+2025-08-25,—,TS-101222,202610-0596,8.0,298.48,0.0,,,0.0,0.0,0.0,0.0,False,False,,2025 wk 35,2025 wk 33-36,37.31,,Geen order - hele periode ontbreekt,
+2025-08-26,—,TS-101224,202510-1423,8.0,298.48,0.0,,,0.0,0.0,0.0,0.0,False,False,,2025 wk 35,2025 wk 33-36,37.31,,Geen order - hele periode ontbreekt,
+2025-08-27,—,TS-101224,202510-1423,8.0,298.48,0.0,,,0.0,0.0,0.0,0.0,False,False,,2025 wk 35,2025 wk 33-36,37.31,,Geen order - hele periode ontbreekt,
+2025-09-08,—,TS-101256,202510-0953,8.0,298.48,10.07,,,0.0,0.0,0.0,0.0,False,False,,2025 wk 37,2025 wk 37-40,37.31,,Geen order - hele periode ontbreekt,
+2025-09-09,—,TS-101256,202510-0953,8.0,298.48,10.07,,,0.0,0.0,0.0,0.0,False,False,,2025 wk 37,2025 wk 37-40,37.31,,Geen order - hele periode ontbreekt,
+2025-09-10,—,TS-101256,202510-0953,8.0,298.48,10.07,,,0.0,0.0,0.0,0.0,False,False,,2025 wk 37,2025 wk 37-40,37.31,,Geen order - hele periode ontbreekt,
+2025-09-11,—,TS-101256,202510-0953,8.0,298.48,10.07,,,0.0,0.0,0.0,0.0,False,False,,2025 wk 37,2025 wk 37-40,37.31,,Geen order - hele periode ontbreekt,
+2025-09-15,—,TS-101291,202610-0575,8.0,298.48,10.07,,,0.0,0.0,0.0,0.0,False,False,,2025 wk 38,2025 wk 37-40,37.31,,Geen order - hele periode ontbreekt,
+2025-09-16,—,TS-101291,202610-0575,8.0,298.48,10.07,,,0.0,0.0,0.0,0.0,False,False,,2025 wk 38,2025 wk 37-40,37.31,,Geen order - hele periode ontbreekt,
+2025-09-17,—,TS-101291,202610-0575,8.0,298.48,10.07,,,0.0,0.0,0.0,0.0,False,False,,2025 wk 38,2025 wk 37-40,37.31,,Geen order - hele periode ontbreekt,
+2025-09-18,—,TS-101291,202610-0575,8.0,298.48,10.07,,,0.0,0.0,0.0,0.0,False,False,,2025 wk 38,2025 wk 37-40,37.31,,Geen order - hele periode ontbreekt,
+2025-09-29,—,TS-101421,202510-0973,8.0,298.48,10.07,,,0.0,0.0,0.0,0.0,False,False,,2025 wk 40,2025 wk 37-40,37.31,,Geen order - hele periode ontbreekt,
+2025-09-30,—,TS-101421,202510-0973,8.0,298.48,10.07,,,0.0,0.0,0.0,0.0,False,False,,2025 wk 40,2025 wk 37-40,37.31,,Geen order - hele periode ontbreekt,
+2025-10-01,—,TS-101421,202510-0973,8.0,298.48,10.07,,,0.0,0.0,0.0,0.0,False,False,,2025 wk 40,2025 wk 37-40,37.31,,Geen order - hele periode ontbreekt,
+2025-10-02,—,TS-101421,202510-0973,8.0,298.48,10.07,,,0.0,0.0,0.0,0.0,False,False,,2025 wk 40,2025 wk 37-40,37.31,,Geen order - hele periode ontbreekt,
+2025-10-06,I01250491,TS-101474,202510-0993,8.0,298.48,10.07,OI,Interne Werkzaamheden,8.0,298.48,0.0,0.0,False,False,,2025 wk 41,2025 wk 41-44,37.31,37.31,"Uren kloppen, onkosten wijken af",onkosten 10.07 niet op order
+2025-10-07,I01250491,TS-101474,202510-0993,8.0,298.48,10.07,OI,Interne Werkzaamheden,8.0,298.48,0.0,0.0,False,False,,2025 wk 41,2025 wk 41-44,37.31,37.31,"Uren kloppen, onkosten wijken af",onkosten 10.07 niet op order
+2025-10-08,I01250491,TS-101474,202510-0993,8.0,298.48,10.07,OI,Interne Werkzaamheden,8.0,298.48,0.0,0.0,False,False,,2025 wk 41,2025 wk 41-44,37.31,37.31,"Uren kloppen, onkosten wijken af",onkosten 10.07 niet op order
+2025-10-09,I01250491,TS-101474,202510-0993,8.0,298.48,10.07,OI,Interne Werkzaamheden,8.0,298.48,0.0,0.0,False,False,,2025 wk 41,2025 wk 41-44,37.31,37.31,"Uren kloppen, onkosten wijken af",onkosten 10.07 niet op order
+2025-10-13,I01250491,TS-101482,202510-1015,8.0,298.48,10.07,OI,Ringweg Oost Ontwerp en realisatie,8.0,298.48,0.0,0.0,False,False,,2025 wk 42,2025 wk 41-44,37.31,37.31,"Uren kloppen, onkosten wijken af",onkosten 10.07 niet op order
+2025-10-14,I01250491,TS-101482,202510-1015,8.0,298.48,10.07,OI,Ringweg Oost Ontwerp en realisatie,8.0,298.48,0.0,0.0,False,False,,2025 wk 42,2025 wk 41-44,37.31,37.31,"Uren kloppen, onkosten wijken af",onkosten 10.07 niet op order
+2025-10-15,I01250491,TS-101482,202510-1015,8.0,298.48,10.07,OI,Ringweg Oost Ontwerp en realisatie,8.0,298.48,0.0,0.0,False,False,,2025 wk 42,2025 wk 41-44,37.31,37.31,"Uren kloppen, onkosten wijken af",onkosten 10.07 niet op order
+2025-10-16,I01250491,TS-101482,202510-1015,8.0,298.48,10.07,OI,Ringweg Oost Ontwerp en realisatie,8.0,298.48,0.0,0.0,False,False,,2025 wk 42,2025 wk 41-44,37.31,37.31,"Uren kloppen, onkosten wijken af",onkosten 10.07 niet op order
+2025-10-20,—,TS-101516,202510-1055,8.0,298.48,10.07,,,0.0,0.0,0.0,0.0,False,False,,2025 wk 43,2025 wk 41-44,37.31,,Geen order - dag ontbreekt in periode,
+2025-10-21,—,TS-101516,202510-1055,8.0,298.48,10.07,,,0.0,0.0,0.0,0.0,False,False,,2025 wk 43,2025 wk 41-44,37.31,,Geen order - dag ontbreekt in periode,
+2025-10-22,—,TS-101516,202510-1055,8.0,298.48,10.07,,,0.0,0.0,0.0,0.0,False,False,,2025 wk 43,2025 wk 41-44,37.31,,Geen order - dag ontbreekt in periode,
+2025-10-23,—,TS-101516,202510-1055,8.0,298.48,10.07,,,0.0,0.0,0.0,0.0,False,False,,2025 wk 43,2025 wk 41-44,37.31,,Geen order - dag ontbreekt in periode,
+2025-10-27,—,TS-101561,202510-1069,8.0,298.48,10.07,,,0.0,0.0,0.0,0.0,False,False,,2025 wk 44,2025 wk 41-44,37.31,,Geen order - dag ontbreekt in periode,
+2025-10-28,—,TS-101561,202510-1069,8.0,298.48,10.07,,,0.0,0.0,0.0,0.0,False,False,,2025 wk 44,2025 wk 41-44,37.31,,Geen order - dag ontbreekt in periode,
+2025-10-29,—,TS-101561,202510-1069,8.0,298.48,10.07,,,0.0,0.0,0.0,0.0,False,False,,2025 wk 44,2025 wk 41-44,37.31,,Geen order - dag ontbreekt in periode,
+2025-10-30,—,TS-101561,202510-1069,8.0,298.48,10.07,,,0.0,0.0,0.0,0.0,False,False,,2025 wk 44,2025 wk 41-44,37.31,,Geen order - dag ontbreekt in periode,

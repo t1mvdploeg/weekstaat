@@ -1,0 +1,30 @@
+datum,order,urenstaten,facturen,fact_uren,fact_bedrag_uren,fact_onkosten,entiteit,projecten,order_uren,order_bedrag_uren,order_km,order_onkosten,km_zonder_bedrag,niet_facturabel,verzamel,week,periode,fact_tarief,order_tarief,status,toelichting
+2025-05-19,I02250348,TS-100673,202510-0419,8.0,359.92,0.0,OIAM,Ringweg Oost Instandhouding,8.0,359.92,0.0,0.0,False,False,,2025 wk 21,2025 wk 21-24,44.99,44.99,Klopt,
+2025-05-20,I02250348,TS-100673,202510-0419,8.0,359.92,0.0,OIAM,Ringweg Oost Instandhouding,8.0,359.92,0.0,0.0,False,False,,2025 wk 21,2025 wk 21-24,44.99,44.99,Klopt,
+2025-05-21,I02250348,TS-100673,202510-0419,8.0,359.93,0.0,OIAM,"Ringweg Oost Instandhouding, Storingsdienst Kanaaltunnel",8.0,359.93,0.0,0.0,False,False,,2025 wk 21,2025 wk 21-24,44.99,44.99,Klopt,
+2025-05-22,I02250348,TS-100673,202510-0419,8.0,359.92,0.0,OIAM,"AM Ringweg Oost Noord, Ringweg Oost Instandhouding",8.0,359.92,0.0,0.0,False,False,,2025 wk 21,2025 wk 21-24,44.99,44.99,Klopt,
+2025-05-23,I02250348,TS-100673,202510-0419,8.0,359.92,0.0,OIAM,"AM Ringweg Oost Noord, Ringweg Oost Instandhouding",8.0,359.92,0.0,0.0,False,False,,2025 wk 21,2025 wk 21-24,44.99,44.99,Klopt,
+2025-05-26,I02250348,TS-100681,202510-0419,8.0,359.92,0.0,OIAM,Ringweg Oost Instandhouding,8.0,359.92,0.0,0.0,False,False,,2025 wk 22,2025 wk 21-24,44.99,44.99,Klopt,
+2025-05-27,I02250348,TS-100718,202510-0419,8.0,359.92,0.0,OIAM,"Parkweg Onderhoud, Ringweg Oost Instandhouding, Storingsdienst Kanaaltunnel",8.0,359.92,0.0,0.0,False,False,,2025 wk 22,2025 wk 21-24,44.99,44.99,Klopt,
+2025-05-28,I02250348,TS-100749,202510-0419,8.0,359.92,0.0,OIAM,Ringweg Oost Instandhouding,8.0,359.92,0.0,0.0,False,False,,2025 wk 22,2025 wk 21-24,44.99,44.99,Klopt,
+2025-05-29,I02250348,TS-100749,202510-0419,8.0,359.92,0.0,OIAM,"AM Ringweg Oost Noord, Ringweg Oost Instandhouding, Storingsdienst Kanaaltunnel",8.0,359.92,0.0,0.0,False,False,,2025 wk 22,2025 wk 21-24,44.99,44.99,Klopt,
+2025-05-30,I02250348,TS-100749,202510-0419,8.0,359.92,0.0,OIAM,"Ringweg Oost Instandhouding, Storingsdienst Kanaaltunnel",8.0,359.92,0.0,0.0,False,False,,2025 wk 22,2025 wk 21-24,44.99,44.99,Klopt,
+2025-06-02,I02250348,TS-100775,202510-0419,8.0,359.92,0.0,OIAM,"Ringweg Oost Instandhouding, Storingsdienst Kanaaltunnel",8.0,359.92,0.0,0.0,False,False,,2025 wk 23,2025 wk 21-24,44.99,44.99,Klopt,
+2025-06-03,I02250348,TS-100775,202510-0419,8.0,359.92,0.0,OIAM,Ringweg Oost Instandhouding,8.0,359.92,0.0,0.0,False,False,,2025 wk 23,2025 wk 21-24,44.99,44.99,Klopt,
+2025-06-04,I02250348,TS-100775,202510-0419,8.0,359.92,0.0,OIAM,"AM Ringweg Oost Noord, Ringweg Oost Instandhouding",8.0,359.92,0.0,0.0,False,False,,2025 wk 23,2025 wk 21-24,44.99,44.99,Klopt,
+2025-06-05,I02250348,TS-100775,202510-0419,8.0,359.93,0.0,OIAM,"AM Ringweg Oost Noord, Ringweg Oost Instandhouding",8.0,359.93,0.0,0.0,False,False,,2025 wk 23,2025 wk 21-24,44.99,44.99,Klopt,
+2025-06-06,I02250348,TS-100775,202510-0419,8.0,359.93,0.0,OIAM,"AM Ringweg Oost Noord, Ringweg Oost Instandhouding",8.0,359.93,0.0,0.0,False,False,,2025 wk 23,2025 wk 21-24,44.99,44.99,Klopt,
+2025-06-09,I02250348,TS-100813,202510-0419,8.0,359.93,0.0,OIAM,"Interne werkzaamheden Assetmanagement, Ringweg Oost Instandhouding",8.0,359.93,0.0,0.0,False,False,,2025 wk 24,2025 wk 21-24,44.99,44.99,Klopt,
+2025-06-10,I02250348,TS-100813,202510-0419,8.0,359.92,0.0,OIAM,Ringweg Oost Instandhouding,8.0,359.92,0.0,0.0,False,False,,2025 wk 24,2025 wk 21-24,44.99,44.99,Klopt,
+2025-06-11,I02250348,TS-100813,202510-0419,8.0,359.92,0.0,OIAM,"AM Ringweg Oost Noord, Ringweg Oost Instandhouding, Storingsdienst Kanaaltunnel",8.0,359.92,0.0,0.0,False,False,,2025 wk 24,2025 wk 21-24,44.99,44.99,Klopt,
+2025-06-12,I02250348,TS-100813,202510-0419,8.0,359.93,0.0,OIAM,Ringweg Oost Instandhouding,10.0,449.91,0.0,0.0,False,False,,2025 wk 24,2025 wk 21-24,44.99,44.99,Urenbedrag wijkt af,
+2025-06-13,I02250348,TS-100813,202510-0419,8.0,359.92,0.0,OIAM,Ringweg Oost Instandhouding,6.0,269.94,0.0,0.0,False,False,,2025 wk 24,2025 wk 21-24,44.99,44.99,Urenbedrag wijkt af,
+2025-06-17,I01250324,,,0.0,0.0,0.0,OI,Raamcontract Midden,2.5,112.48,0.0,0.0,False,False,,2025 wk 25,2025 wk 25-28,,44.99,Klopt,samen met I02250348 sluit deze dag aan
+2025-06-17,I02250348,TS-100814,202510-0419,8.0,359.94,0.0,OIAM,"Ringweg Oost Instandhouding, Storingsdienst Kanaaltunnel",5.5,247.46,0.0,0.0,False,False,,2025 wk 25,2025 wk 25-28,44.99,44.99,Klopt,samen met I01250324 sluit deze dag aan
+2025-06-18,I01250324,,,0.0,0.0,0.0,OI,Raamcontract Midden,1.0,44.99,0.0,0.0,False,False,,2025 wk 25,2025 wk 25-28,,44.99,Klopt,samen met I02250348 sluit deze dag aan
+2025-06-18,I02250348,TS-100814,202510-0419,8.0,359.92,0.0,OIAM,Ringweg Oost Instandhouding,7.0,314.93,0.0,0.0,False,False,,2025 wk 25,2025 wk 25-28,44.99,44.99,Klopt,samen met I01250324 sluit deze dag aan
+2025-06-19,I02250348,TS-100814,202510-0419,8.0,359.92,0.0,OIAM,"AM Ringweg Oost Noord, Ringweg Oost Instandhouding",8.0,359.92,0.0,0.0,False,False,,2025 wk 25,2025 wk 25-28,44.99,44.99,Klopt,
+2025-06-20,I02250348,TS-100814,202510-0419,8.0,359.94,0.0,OIAM,"AM Ringweg Oost Noord, Parkweg Onderhoud, Ringweg Oost Instandhouding",8.0,359.94,0.0,0.0,False,False,,2025 wk 25,2025 wk 25-28,44.99,44.99,Klopt,
+2025-06-23,I02250348,TS-100850,202510-0419,8.0,359.93,0.0,OIAM,Ringweg Oost Instandhouding,8.0,359.93,0.0,0.0,False,False,,2025 wk 26,2025 wk 25-28,44.99,44.99,Klopt,
+2025-06-24,I02250348,TS-100850,202510-0419,8.0,359.93,0.0,OIAM,"AM Ringweg Oost Noord, Ringweg Oost Instandhouding",8.0,359.93,0.0,0.0,False,False,,2025 wk 26,2025 wk 25-28,44.99,44.99,Klopt,
+2025-06-25,I02250348,TS-100850,202510-0419,8.0,359.93,0.0,OIAM,"AM Ringweg Oost Noord, Ringweg Oost Instandhouding",8.0,359.93,0.0,0.0,False,False,,2025 wk 26,2025 wk 25-28,44.99,44.99,Klopt,

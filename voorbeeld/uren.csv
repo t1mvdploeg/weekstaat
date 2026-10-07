@@ -1,0 +1,155 @@
+rij;medewerker;urenstaat;datum;uren;soort;tarief;status;factuurnummer;factuurdatum;bedrag;creditnummer;creditbedrag;factuurbedrag
+2;Thijmen Lucas Van Dijk;TS-100681;26-05-2025;8,0;Normale Uren;44,99;Goedgekeurd;202510-0419;13-08-2025;359,92;;0;359,92
+3;Thijmen Lucas Van Dijk;TS-100681;26-05-2025;0,0;;44,99;Goedgekeurd;;;0,0;;0;0,0
+4;Thijmen Lucas Van Dijk;TS-100673;19-05-2025;8,0;Normale Uren;44,99;Goedgekeurd;202510-0419;13-08-2025;359,92;;0;359,92
+5;Thijmen Lucas Van Dijk;TS-100673;20-05-2025;8,0;Normale Uren;44,99;Goedgekeurd;202510-0419;13-08-2025;359,92;;0;359,92
+6;Thijmen Lucas Van Dijk;TS-100673;21-05-2025;8,0;Normale Uren;44,99;Goedgekeurd;202510-0419;13-08-2025;359,93;;0;359,93
+7;Thijmen Lucas Van Dijk;TS-100673;22-05-2025;8,0;Normale Uren;44,99;Goedgekeurd;202510-0419;13-08-2025;359,92;;0;359,92
+8;Thijmen Lucas Van Dijk;TS-100673;23-05-2025;8,0;Normale Uren;44,99;Goedgekeurd;202510-0419;13-08-2025;359,92;;0;359,92
+9;Thijmen Lucas Van Dijk;TS-100673;19-05-2025;0,0;;44,99;Goedgekeurd;;;0,0;;0;0,0
+10;Thijmen Lucas Van Dijk;TS-100673;20-05-2025;0,0;;44,99;Goedgekeurd;;;0,0;;0;0,0
+11;Thijmen Lucas Van Dijk;TS-100673;21-05-2025;0,0;;44,99;Goedgekeurd;;;0,0;;0;0,0
+12;Thijmen Lucas Van Dijk;TS-100673;22-05-2025;0,0;;44,99;Goedgekeurd;;;0,0;;0;0,0
+13;Thijmen Lucas Van Dijk;TS-100673;23-05-2025;0,0;;44,99;Goedgekeurd;;;0,0;;0;0,0
+14;Thijmen Lucas Van Dijk;TS-100718;27-05-2025;8,0;Normale Uren;44,99;Goedgekeurd;202510-0419;13-08-2025;359,92;;0;359,92
+15;Thijmen Lucas Van Dijk;TS-100749;28-05-2025;8,0;Normale Uren;44,99;Goedgekeurd;202510-0419;13-08-2025;359,92;;0;359,92
+16;Thijmen Lucas Van Dijk;TS-100749;29-05-2025;8,0;Normale Uren;44,99;Goedgekeurd;202510-0419;13-08-2025;359,92;;0;359,92
+17;Thijmen Lucas Van Dijk;TS-100749;30-05-2025;8,0;Normale Uren;44,99;Goedgekeurd;202510-0419;13-08-2025;359,92;;0;359,92
+18;Thijmen Lucas Van Dijk;TS-100813;09-06-2025;8,0;Normale Uren;44,99;Goedgekeurd;202510-0419;13-08-2025;359,93;;0;359,93
+19;Thijmen Lucas Van Dijk;TS-100813;10-06-2025;8,0;Normale Uren;44,99;Goedgekeurd;202510-0419;13-08-2025;359,92;;0;359,92
+20;Thijmen Lucas Van Dijk;TS-100813;11-06-2025;8,0;Normale Uren;44,99;Goedgekeurd;202510-0419;13-08-2025;359,92;;0;359,92
+21;Thijmen Lucas Van Dijk;TS-100813;12-06-2025;8,0;Normale Uren;44,99;Goedgekeurd;202510-0419;13-08-2025;359,93;;0;359,93
+22;Thijmen Lucas Van Dijk;TS-100813;13-06-2025;8,0;Normale Uren;44,99;Goedgekeurd;202510-0419;13-08-2025;359,92;;0;359,92
+23;Thijmen Lucas Van Dijk;TS-100775;02-06-2025;8,0;Normale Uren;44,99;Goedgekeurd;202510-0419;13-08-2025;359,92;;0;359,92
+24;Thijmen Lucas Van Dijk;TS-100775;03-06-2025;8,0;Normale Uren;44,99;Goedgekeurd;202510-0419;13-08-2025;359,92;;0;359,92
+25;Thijmen Lucas Van Dijk;TS-100775;04-06-2025;8,0;Normale Uren;44,99;Goedgekeurd;202510-0419;13-08-2025;359,92;;0;359,92
+26;Thijmen Lucas Van Dijk;TS-100775;05-06-2025;8,0;Normale Uren;44,99;Goedgekeurd;202510-0419;13-08-2025;359,93;;0;359,93
+27;Thijmen Lucas Van Dijk;TS-100775;06-06-2025;8,0;Normale Uren;44,99;Goedgekeurd;202510-0419;13-08-2025;359,93;;0;359,93
+28;Thijmen Lucas Van Dijk;TS-100814;16-06-2025;8,0;Feestdag Uren;44,99;Goedgekeurd;;;0,0;;0;0,0
+29;Thijmen Lucas Van Dijk;TS-100814;17-06-2025;8,0;Normale Uren;44,99;Goedgekeurd;202510-0419;13-08-2025;359,94;;0;359,94
+30;Thijmen Lucas Van Dijk;TS-100814;18-06-2025;8,0;Normale Uren;44,99;Goedgekeurd;202510-0419;13-08-2025;359,92;;0;359,92
+31;Thijmen Lucas Van Dijk;TS-100814;19-06-2025;8,0;Normale Uren;44,99;Goedgekeurd;202510-0419;13-08-2025;359,92;;0;359,92
+32;Thijmen Lucas Van Dijk;TS-100814;20-06-2025;8,0;Normale Uren;44,99;Goedgekeurd;202510-0419;13-08-2025;359,94;;0;359,94
+33;Thijmen Lucas Van Dijk;TS-100850;23-06-2025;8,0;Normale Uren;44,99;Goedgekeurd;202510-0419;13-08-2025;359,93;;0;359,93
+34;Thijmen Lucas Van Dijk;TS-100850;24-06-2025;8,0;Normale Uren;44,99;Goedgekeurd;202510-0419;13-08-2025;359,93;;0;359,93
+35;Thijmen Lucas Van Dijk;TS-100850;25-06-2025;8,0;Normale Uren;44,99;Goedgekeurd;202510-0419;13-08-2025;359,93;;0;359,93
+36;Sanne Bakker;TS-101224;28-08-2025;4,44;Vakantiedagen Wettelijk;37,31;Goedgekeurd;;;0,0;;0;0,0
+37;Sanne Bakker;TS-101224;28-08-2025;3,56;Vakantiedagen bovenwettelijk;37,31;Goedgekeurd;;;0,0;;0;0,0
+38;Sanne Bakker;TS-101142;01-09-2025;8,0;Vakantiedagen Wettelijk;37,31;Goedgekeurd;;;0,0;;0;0,0
+39;Sanne Bakker;TS-101142;02-09-2025;8,0;Vakantiedagen Wettelijk;37,31;Goedgekeurd;;;0,0;;0;0,0
+40;Sanne Bakker;TS-101142;03-09-2025;8,0;Vakantiedagen Wettelijk;37,31;Goedgekeurd;;;0,0;;0;0,0
+41;Sanne Bakker;TS-101142;04-09-2025;8,0;Vakantiedagen Wettelijk;37,31;Goedgekeurd;;;0,0;;0;0,0
+42;Sanne Bakker;TS-100898;07-07-2025;8,0;Normale Uren;37,31;Corrected;;;0,0;;0;298,48
+43;Sanne Bakker;TS-100898;08-07-2025;8,0;Normale Uren;37,31;Corrected;;;0,0;;0;298,48
+44;Sanne Bakker;TS-100898;09-07-2025;8,0;Normale Uren;37,31;Corrected;;;0,0;;0;298,48
+45;Sanne Bakker;TS-100898;10-07-2025;8,0;Normale Uren;37,31;Corrected;;;0,0;;0;298,48
+46;Sanne Bakker;TS-101074;18-08-2025;8,0;Normale Uren;37,31;Terugdraaien;;;0,0;;0;298,48
+47;Sanne Bakker;TS-101074;19-08-2025;8,0;Normale Uren;37,31;Terugdraaien;;;0,0;;0;298,48
+48;Sanne Bakker;TS-101074;20-08-2025;8,0;Normale Uren;37,31;Terugdraaien;;;0,0;;0;298,48
+49;Sanne Bakker;TS-101108;21-07-2025;8,0;Normale Uren;37,31;Corrected;;;0,0;;0;298,48
+50;Sanne Bakker;TS-101074;21-08-2025;8,0;Normale Uren;37,31;Terugdraaien;;;0,0;;0;298,48
+51;Sanne Bakker;TS-101108;22-07-2025;8,0;Normale Uren;37,31;Corrected;;;0,0;;0;298,48
+52;Sanne Bakker;TS-101361;22-09-2025;8,0;Vakantiedagen Wettelijk;37,31;Goedgekeurd;;;0,0;;0;0,0
+53;Sanne Bakker;TS-101108;24-07-2025;8,0;Feestdag Uren;37,31;Corrected;;;0,0;;0;0,0
+54;Sanne Bakker;TS-101603;24-07-2025;8,0;Feestdag Uren;37,31;Goedgekeurd;;;0,0;;0;0,0
+55;Sanne Bakker;TS-101361;23-09-2025;4,91;Vakantiedagen Wettelijk;37,31;Goedgekeurd;;;0,0;;0;0,0
+56;Sanne Bakker;TS-101361;23-09-2025;3,09;Vakantiedagen bovenwettelijk;37,31;Goedgekeurd;;;0,0;;0;0,0
+57;Sanne Bakker;TS-101108;25-07-2025;7,39;Vakantiedagen Wettelijk;37,31;Corrected;;;0,0;;0;0,0
+58;Sanne Bakker;TS-101603;25-07-2025;8,0;Vakantiedagen Wettelijk;37,31;Goedgekeurd;;;0,0;;0;0,0
+59;Sanne Bakker;TS-101361;24-09-2025;8,0;Vakantiedagen bovenwettelijk;37,31;Goedgekeurd;;;0,0;;0;0,0
+60;Sanne Bakker;TS-101361;25-09-2025;5,99;Vakantiedagen Wettelijk;37,31;Goedgekeurd;;;0,0;;0;0,0
+61;Sanne Bakker;TS-101361;25-09-2025;2,01;Vakantiedagen bovenwettelijk;37,31;Goedgekeurd;;;0,0;;0;0,0
+62;Sanne Bakker;TS-100882;14-07-2025;8,0;Normale Uren;37,31;Goedgekeurd;202510-0438;21-08-2025;298,48;;0;298,48
+63;Sanne Bakker;TS-100882;14-07-2025;0,0;;37,31;Goedgekeurd;202510-0438;21-08-2025;495,65;;0;495,65
+64;Sanne Bakker;TS-100882;15-07-2025;8,0;Normale Uren;37,31;Goedgekeurd;202510-0438;21-08-2025;298,48;;0;298,48
+65;Sanne Bakker;TS-100882;16-07-2025;8,0;Normale Uren;37,31;Goedgekeurd;202510-0438;21-08-2025;298,48;;0;298,48
+66;Sanne Bakker;TS-100882;17-07-2025;8,0;Normale Uren;37,31;Goedgekeurd;202510-0438;21-08-2025;298,48;;0;298,48
+67;Sanne Bakker;TS-101603;21-07-2025;8,0;Normale Uren;37,31;Goedgekeurd;202510-0459;25-08-2025;298,48;;0;298,48
+68;Sanne Bakker;TS-101603;22-07-2025;8,0;Normale Uren;37,31;Goedgekeurd;202510-0459;25-08-2025;298,48;;0;298,48
+69;Sanne Bakker;TS-100968;07-07-2025;8,0;Normale Uren;37,31;Goedgekeurd;202510-0471;25-08-2025;298,48;;0;298,48
+70;Sanne Bakker;TS-100968;08-07-2025;8,0;Normale Uren;37,31;Goedgekeurd;202510-0471;25-08-2025;298,48;;0;298,48
+71;Sanne Bakker;TS-100968;09-07-2025;8,0;Normale Uren;37,31;Goedgekeurd;202510-0471;25-08-2025;298,48;;0;298,48
+72;Sanne Bakker;TS-100968;10-07-2025;8,0;Normale Uren;37,31;Goedgekeurd;202510-0471;25-08-2025;298,48;;0;298,48
+73;Sanne Bakker;TS-100952;04-08-2025;8,0;Normale Uren;37,31;Goedgekeurd;202510-0474;25-08-2025;298,48;;0;298,48
+74;Sanne Bakker;TS-100952;05-08-2025;8,0;Normale Uren;37,31;Goedgekeurd;202510-0474;25-08-2025;298,48;;0;298,48
+75;Sanne Bakker;TS-100952;06-08-2025;8,0;Normale Uren;37,31;Goedgekeurd;202510-0474;25-08-2025;298,48;;0;298,48
+76;Sanne Bakker;TS-100952;07-08-2025;8,0;Normale Uren;37,31;Goedgekeurd;202510-0474;25-08-2025;298,48;;0;298,48
+77;Sanne Bakker;TS-101607;28-07-2025;8,0;Normale Uren;37,31;Goedgekeurd;202510-0913;17-12-2025;298,48;;0;298,48
+78;Sanne Bakker;TS-101607;28-07-2025;0,0;;37,31;Goedgekeurd;202510-0913;17-12-2025;10,07;;0;10,07
+79;Sanne Bakker;TS-101607;29-07-2025;8,0;Normale Uren;37,31;Goedgekeurd;202510-0913;17-12-2025;298,48;;0;298,48
+80;Sanne Bakker;TS-101607;29-07-2025;0,0;;37,31;Goedgekeurd;202510-0913;17-12-2025;10,07;;0;10,07
+81;Sanne Bakker;TS-101607;30-07-2025;8,0;Normale Uren;37,31;Goedgekeurd;202510-0913;17-12-2025;298,48;;0;298,48
+82;Sanne Bakker;TS-101607;30-07-2025;0,0;;37,31;Goedgekeurd;202510-0913;17-12-2025;10,07;;0;10,07
+83;Sanne Bakker;TS-101607;31-07-2025;8,0;Normale Uren;37,31;Goedgekeurd;202510-0913;17-12-2025;298,48;;0;298,48
+84;Sanne Bakker;TS-101607;31-07-2025;0,0;;37,31;Goedgekeurd;202510-0913;17-12-2025;10,07;;0;10,07
+85;Sanne Bakker;TS-101048;11-08-2025;8,0;Normale Uren;37,31;Goedgekeurd;202510-0942;17-12-2025;298,48;;0;298,48
+86;Sanne Bakker;TS-101048;11-08-2025;0,0;;37,31;Goedgekeurd;202510-0942;17-12-2025;10,07;;0;10,07
+87;Sanne Bakker;TS-101048;12-08-2025;8,0;Normale Uren;37,31;Goedgekeurd;202510-0942;17-12-2025;298,48;;0;298,48
+88;Sanne Bakker;TS-101048;12-08-2025;0,0;;37,31;Goedgekeurd;202510-0942;17-12-2025;10,07;;0;10,07
+89;Sanne Bakker;TS-101048;13-08-2025;8,0;Normale Uren;37,31;Goedgekeurd;202510-0942;17-12-2025;298,48;;0;298,48
+90;Sanne Bakker;TS-101048;13-08-2025;0,0;;37,31;Goedgekeurd;202510-0942;17-12-2025;10,07;;0;10,07
+91;Sanne Bakker;TS-101048;14-08-2025;8,0;Normale Uren;37,31;Goedgekeurd;202510-0942;17-12-2025;298,48;;0;298,48
+92;Sanne Bakker;TS-101048;14-08-2025;0,0;;37,31;Goedgekeurd;202510-0942;17-12-2025;10,07;;0;10,07
+93;Sanne Bakker;TS-101256;08-09-2025;8,0;Normale Uren;37,31;Goedgekeurd;202510-0953;17-12-2025;298,48;;0;298,48
+94;Sanne Bakker;TS-101256;08-09-2025;0,0;;37,31;Goedgekeurd;202510-0953;17-12-2025;10,07;;0;10,07
+95;Sanne Bakker;TS-101256;09-09-2025;8,0;Normale Uren;37,31;Goedgekeurd;202510-0953;17-12-2025;298,48;;0;298,48
+96;Sanne Bakker;TS-101256;09-09-2025;0,0;;37,31;Goedgekeurd;202510-0953;17-12-2025;10,07;;0;10,07
+97;Sanne Bakker;TS-101256;10-09-2025;8,0;Normale Uren;37,31;Goedgekeurd;202510-0953;17-12-2025;298,48;;0;298,48
+98;Sanne Bakker;TS-101256;10-09-2025;0,0;;37,31;Goedgekeurd;202510-0953;17-12-2025;10,07;;0;10,07
+99;Sanne Bakker;TS-101256;11-09-2025;8,0;Normale Uren;37,31;Goedgekeurd;202510-0953;17-12-2025;298,48;;0;298,48
+100;Sanne Bakker;TS-101256;11-09-2025;0,0;;37,31;Goedgekeurd;202510-0953;17-12-2025;10,07;;0;10,07
+101;Sanne Bakker;TS-101421;29-09-2025;8,0;Normale Uren;37,31;Goedgekeurd;202510-0973;17-12-2025;298,48;;0;298,48
+102;Sanne Bakker;TS-101421;29-09-2025;0,0;;37,31;Goedgekeurd;202510-0973;17-12-2025;10,07;;0;10,07
+103;Sanne Bakker;TS-101421;30-09-2025;8,0;Normale Uren;37,31;Goedgekeurd;202510-0973;17-12-2025;298,48;;0;298,48
+104;Sanne Bakker;TS-101421;30-09-2025;0,0;;37,31;Goedgekeurd;202510-0973;17-12-2025;10,07;;0;10,07
+105;Sanne Bakker;TS-101421;01-10-2025;8,0;Normale Uren;37,31;Goedgekeurd;202510-0973;17-12-2025;298,48;;0;298,48
+106;Sanne Bakker;TS-101421;01-10-2025;0,0;;37,31;Goedgekeurd;202510-0973;17-12-2025;10,07;;0;10,07
+107;Sanne Bakker;TS-101421;02-10-2025;8,0;Normale Uren;37,31;Goedgekeurd;202510-0973;17-12-2025;298,48;;0;298,48
+108;Sanne Bakker;TS-101421;02-10-2025;0,0;;37,31;Goedgekeurd;202510-0973;17-12-2025;10,07;;0;10,07
+109;Sanne Bakker;TS-101474;06-10-2025;8,0;Normale Uren;37,31;Goedgekeurd;202510-0993;17-12-2025;298,48;;0;298,48
+110;Sanne Bakker;TS-101474;06-10-2025;0,0;;37,31;Goedgekeurd;202510-0993;17-12-2025;10,07;;0;10,07
+111;Sanne Bakker;TS-101474;07-10-2025;8,0;Normale Uren;37,31;Goedgekeurd;202510-0993;17-12-2025;298,48;;0;298,48
+112;Sanne Bakker;TS-101474;07-10-2025;0,0;;37,31;Goedgekeurd;202510-0993;17-12-2025;10,07;;0;10,07
+113;Sanne Bakker;TS-101474;08-10-2025;8,0;Normale Uren;37,31;Goedgekeurd;202510-0993;17-12-2025;298,48;;0;298,48
+114;Sanne Bakker;TS-101474;08-10-2025;0,0;;37,31;Goedgekeurd;202510-0993;17-12-2025;10,07;;0;10,07
+115;Sanne Bakker;TS-101474;09-10-2025;8,0;Normale Uren;37,31;Goedgekeurd;202510-0993;17-12-2025;298,48;;0;298,48
+116;Sanne Bakker;TS-101474;09-10-2025;0,0;;37,31;Goedgekeurd;202510-0993;17-12-2025;10,07;;0;10,07
+117;Sanne Bakker;TS-101482;13-10-2025;8,0;Normale Uren;37,31;Goedgekeurd;202510-1015;17-12-2025;298,48;;0;298,48
+118;Sanne Bakker;TS-101482;13-10-2025;0,0;;37,31;Goedgekeurd;202510-1015;17-12-2025;10,07;;0;10,07
+119;Sanne Bakker;TS-101482;14-10-2025;8,0;Normale Uren;37,31;Goedgekeurd;202510-1015;17-12-2025;298,48;;0;298,48
+120;Sanne Bakker;TS-101482;14-10-2025;0,0;;37,31;Goedgekeurd;202510-1015;17-12-2025;10,07;;0;10,07
+121;Sanne Bakker;TS-101482;15-10-2025;8,0;Normale Uren;37,31;Goedgekeurd;202510-1015;17-12-2025;298,48;;0;298,48
+122;Sanne Bakker;TS-101482;15-10-2025;0,0;;37,31;Goedgekeurd;202510-1015;17-12-2025;10,07;;0;10,07
+123;Sanne Bakker;TS-101482;16-10-2025;8,0;Normale Uren;37,31;Goedgekeurd;202510-1015;17-12-2025;298,48;;0;298,48
+124;Sanne Bakker;TS-101482;16-10-2025;0,0;;37,31;Goedgekeurd;202510-1015;17-12-2025;10,07;;0;10,07
+125;Sanne Bakker;TS-101516;20-10-2025;8,0;Normale Uren;37,31;Goedgekeurd;202510-1055;17-12-2025;298,48;;0;298,48
+126;Sanne Bakker;TS-101516;20-10-2025;0,0;;37,31;Goedgekeurd;202510-1055;17-12-2025;10,07;;0;10,07
+127;Sanne Bakker;TS-101516;21-10-2025;8,0;Normale Uren;37,31;Goedgekeurd;202510-1055;17-12-2025;298,48;;0;298,48
+128;Sanne Bakker;TS-101516;21-10-2025;0,0;;37,31;Goedgekeurd;202510-1055;17-12-2025;10,07;;0;10,07
+129;Sanne Bakker;TS-101516;22-10-2025;8,0;Normale Uren;37,31;Goedgekeurd;202510-1055;17-12-2025;298,48;;0;298,48
+130;Sanne Bakker;TS-101516;22-10-2025;0,0;;37,31;Goedgekeurd;202510-1055;17-12-2025;10,07;;0;10,07
+131;Sanne Bakker;TS-101516;23-10-2025;8,0;Normale Uren;37,31;Goedgekeurd;202510-1055;17-12-2025;298,48;;0;298,48
+132;Sanne Bakker;TS-101516;23-10-2025;0,0;;37,31;Goedgekeurd;202510-1055;17-12-2025;10,07;;0;10,07
+133;Sanne Bakker;TS-101561;27-10-2025;8,0;Normale Uren;37,31;Goedgekeurd;202510-1069;17-12-2025;298,48;;0;298,48
+134;Sanne Bakker;TS-101561;27-10-2025;0,0;;37,31;Goedgekeurd;202510-1069;17-12-2025;10,07;;0;10,07
+135;Sanne Bakker;TS-101561;28-10-2025;8,0;Normale Uren;37,31;Goedgekeurd;202510-1069;17-12-2025;298,48;;0;298,48
+136;Sanne Bakker;TS-101561;28-10-2025;0,0;;37,31;Goedgekeurd;202510-1069;17-12-2025;10,07;;0;10,07
+137;Sanne Bakker;TS-101561;29-10-2025;8,0;Normale Uren;37,31;Goedgekeurd;202510-1069;17-12-2025;298,48;;0;298,48
+138;Sanne Bakker;TS-101561;29-10-2025;0,0;;37,31;Goedgekeurd;202510-1069;17-12-2025;10,07;;0;10,07
+139;Sanne Bakker;TS-101561;30-10-2025;8,0;Normale Uren;37,31;Goedgekeurd;202510-1069;17-12-2025;298,48;;0;298,48
+140;Sanne Bakker;TS-101561;30-10-2025;0,0;;37,31;Goedgekeurd;202510-1069;17-12-2025;10,07;;0;10,07
+141;Sanne Bakker;TS-101224;26-08-2025;8,0;Normale Uren;37,31;Goedgekeurd;202510-1423;06-02-2026;298,48;;0;298,48
+142;Sanne Bakker;TS-101224;27-08-2025;8,0;Normale Uren;37,31;Goedgekeurd;202510-1423;06-02-2026;298,48;;0;298,48
+143;Sanne Bakker;TS-101128;18-08-2025;8,0;Normale Uren;37,31;Goedgekeurd;202610-0397;05-03-2026;298,48;;0;298,48
+144;Sanne Bakker;TS-101128;19-08-2025;8,0;Normale Uren;37,31;Goedgekeurd;202610-0397;05-03-2026;298,48;;0;298,48
+145;Sanne Bakker;TS-101128;20-08-2025;8,0;Normale Uren;37,31;Goedgekeurd;202610-0397;05-03-2026;298,48;;0;298,48
+146;Sanne Bakker;TS-101128;21-08-2025;8,0;Normale Uren;37,31;Goedgekeurd;202610-0397;05-03-2026;298,48;;0;298,48
+147;Sanne Bakker;TS-101291;15-09-2025;8,0;Normale Uren;37,31;Goedgekeurd;202610-0575;09-03-2026;298,48;;0;298,48
+148;Sanne Bakker;TS-101291;15-09-2025;0,0;;37,31;Goedgekeurd;202610-0575;09-03-2026;10,07;;0;10,07
+149;Sanne Bakker;TS-101291;16-09-2025;8,0;Normale Uren;37,31;Goedgekeurd;202610-0575;09-03-2026;298,48;;0;298,48
+150;Sanne Bakker;TS-101291;16-09-2025;0,0;;37,31;Goedgekeurd;202610-0575;09-03-2026;10,07;;0;10,07
+151;Sanne Bakker;TS-101291;17-09-2025;8,0;Normale Uren;37,31;Goedgekeurd;202610-0575;09-03-2026;298,48;;0;298,48
+152;Sanne Bakker;TS-101291;17-09-2025;0,0;;37,31;Goedgekeurd;202610-0575;09-03-2026;10,07;;0;10,07
+153;Sanne Bakker;TS-101291;18-09-2025;8,0;Normale Uren;37,31;Goedgekeurd;202610-0575;09-03-2026;298,48;;0;298,48
+154;Sanne Bakker;TS-101291;18-09-2025;0,0;;37,31;Goedgekeurd;202610-0575;09-03-2026;10,07;;0;10,07
+155;Sanne Bakker;TS-101222;25-08-2025;8,0;Normale Uren;37,31;Goedgekeurd;202610-0596;09-03-2026;298,48;;0;298,48

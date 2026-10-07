@@ -1,0 +1,30 @@
+# Instellingen bij de voorbeeldset. Alle namen en nummers zijn verzonnen.
+
+# Alles hieronder tot de eerste [[entiteit]] is niet verplicht; er staat telkens de standaardwaarde.
+bureau = "het bureau"                # hoe de teksten het bureau noemen
+opdrachtgever = "de opdrachtgever"   # hoe de teksten de opdrachtgever noemen
+btw = 0.21                           # btw-tarief van het bureau
+blok = "4 weken"                     # waarin de opdrachtgever zijn orders plaatst: "week", "4 weken" of "maand"
+betaaltermijn = 30                   # dagen na de factuurdatum van een order voordat "niet ontvangen" geldt;
+                                     # een verzamelbetaling zoekt orders van 10 dagen korter tot 10 dagen langer terug
+
+# De opdrachtgever factureert vanuit twee entiteiten. De tool herkent ze aan hun naam in de kop van een order
+# en in de naam van de tegenpartij op een bankregel. De langste naam die past, wint.
+[[entiteit]]
+code = "OI"
+naam = "Oeverland Infra"
+
+[[entiteit]]
+code = "OIAM"
+naam = "Oeverland Infra Asset Management"
+
+# De opdrachtgever betaalt elke order in twee delen: een vast aandeel naar de G-rekening en de rest naar de gewone rekening.
+[[rekening]]
+naam = "G-rekening"
+iban = "NL00RABO0991000001"
+aandeel = 0.30
+
+[[rekening]]
+naam = "Gewone rekening"
+iban = "NL00RABO0123456789"
+aandeel = 0.70

@@ -1,0 +1,84 @@
+From: Administratie <administratie@vlasakker.example>
+To: Controle <controle@vlasakker.example>
+Subject: FW: Order I02250362
+Date: Mon, 05 Jan 2026 10:00:00 +0100
+Message-ID: <fw-I02250362@vlasakker.example>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="grens-doorgestuurd"
+
+--grens-doorgestuurd
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Ter info, zie de doorgestuurde mail.
+
+--grens-doorgestuurd
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 8bit
+MIME-Version: 1.0
+Content-Disposition: attachment
+
+From: Inkoop <inkoop@oeverland-infra.example>
+To: Administratie <administratie@vlasakker.example>
+Subject: Order I02250362
+Date: Mon, 05 Jan 2026 10:00:00 +0100
+Message-ID: <I02250362@oeverland-infra.example>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="grens-order"
+
+--grens-order
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Goedemiddag,
+
+In de bijlage de order over de afgelopen periode.
+
+Met vriendelijke groet,
+Inkoop
+
+--grens-order
+Content-Type: application/pdf
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="Order I02250362.pdf"
+MIME-Version: 1.0
+
+JVBERi0xLjMKJenr8b8KMSAwIG9iago8PAovQ291bnQgMQovS2lkcyBbMyAwIFJdCi9NZWRpYUJv
+eCBbMCAwIDU5NS4yOCA4NDEuODldCi9UeXBlIC9QYWdlcwo+PgplbmRvYmoKMiAwIG9iago8PAov
+T3BlbkFjdGlvbiBbMyAwIFIgL0ZpdEggbnVsbF0KL1BhZ2VMYXlvdXQgL09uZUNvbHVtbgovUGFn
+ZXMgMSAwIFIKL1R5cGUgL0NhdGFsb2cKPj4KZW5kb2JqCjMgMCBvYmoKPDwKL0NvbnRlbnRzIDQg
+MCBSCi9QYXJlbnQgMSAwIFIKL1Jlc291cmNlcyA3IDAgUgovVHlwZSAvUGFnZQo+PgplbmRvYmoK
+NCAwIG9iago8PAovRmlsdGVyIC9GbGF0ZURlY29kZQovTGVuZ3RoIDkzNwo+PgpzdHJlYW0KeJyN
+Vtt22koMfc9X6LFnLZjO3Z6+QSE96Y1zCMn7FA/EAezWGOjnV/hSXzKE8OKFvaW9pZE04vD5hhIV
+wAkfTGkDlHChBD6E4gbmn2444efPkhPFIWSCKAk7UIqTQNf/t3B/M17A+1sGjBJKYbGC6eL8SqCd
+MRAYThiHRQTvZu7osq1NIrhLVpmF0X7vcvhmE7t2O5fkMCaP5B9YPFce3t8irddnYIjRhc9/7dEl
+Gxs5pG+Z1kAdEl2SMy4kfJzA42w2H0+nXyf3i9HEY6ECgtGfLX7kJ/j+lda/MWUeuFTEqAL+5fgF
+amwnCMyM7ESBNkJBgG9FWJje2mV+OGTwEOdrl7l4k8MkTTMYrRJMTNZLSdA4+wV/3enQEFUooUQK
+JmEN7yaxS/Y5rN32nPkIInRaOYP/a3fGo00HmnBaaHvc2r3dbFwGE5fb5ZPL4mTtO6m+LM4UCvHq
+mrsVhpnksbuipvbRyDk5twFuhoJfoRdUE2Tz0VfpTg67JrmXFNRuGgV3lHNFhb4qIFREMa+ARZpb
+u73GXNk3zAHnAyGvVQMWJuJfiTuy+WF3rQwqLw05U0MaDjnl6ooAReV5rPgEPLrsaLdv4a+dtPjl
+kJo+f1WtWhApC9R9bvM4TfY/ty5OgL2E4vBitBkIo7F/INSTET7VPextE5yBYUn8X5Y+u2XeImSU
+E9rBzLFzTm4NsxSb8g47E0fhU3qI8HUvpz4yZQzR5dD7bu0Odi5yJ5dhZ35os4qQGNoG39skcTAu
+evhNk0SFmlDTmyTdMyvQjOHhcC98ttsvn7L4+diEVlsJjhcM81pNXfLk4qhnIBkj1E8zskne7qMS
+rzH0wItf2Cx2qx5e8eBS1GMXZXb9pompAkZEedNwNqRBv1LrZDWw6dZt8izdpUnuDu2TqTPUQB9w
+WLZLGUuqSxkOOneO1IpQ2QaIYCDa3aA4J5J2VJtwIMMXDaPwPmRl+XL+SlwNbOE2LrE2AwwM6/On
+J7IGfCGyBnAhsgZwKbKW7k5k5TajZHA+7b/bTPW/tc14D1koEpZXdmeEFwga9iBMd7XXyhqEMnpg
+9Ku9X6cMvVd7xiTO4UdRmBDvwf1ebg97rGrAdcVD1ti9IKtcSyNJUOoZ+1y0vjOuBiLs6O0nqnYa
+UqJZVQ8oF9vUJYAjefow/+DhaOBvu+SK45ASNyjdb1mkOm8ox9iCPeTpDi8EHEaVCPxCXswLrODQ
+6+xj5qL43J3lqgC8WO5Y4+AP8vOvzQplbmRzdHJlYW0KZW5kb2JqCjUgMCBvYmoKPDwKL0Jhc2VG
+b250IC9IZWx2ZXRpY2EtQm9sZAovRW5jb2RpbmcgL1dpbkFuc2lFbmNvZGluZwovU3VidHlwZSAv
+VHlwZTEKL1R5cGUgL0ZvbnQKPj4KZW5kb2JqCjYgMCBvYmoKPDwKL0Jhc2VGb250IC9IZWx2ZXRp
+Y2EKL0VuY29kaW5nIC9XaW5BbnNpRW5jb2RpbmcKL1N1YnR5cGUgL1R5cGUxCi9UeXBlIC9Gb250
+Cj4+CmVuZG9iago3IDAgb2JqCjw8Ci9Gb250IDw8L0YxIDUgMCBSCi9GMiA2IDAgUj4+Ci9Qcm9j
+U2V0IFsvUERGIC9UZXh0IC9JbWFnZUIgL0ltYWdlQyAvSW1hZ2VJXQo+PgplbmRvYmoKOCAwIG9i
+ago8PAovQ3JlYXRpb25EYXRlIChEOjIwMjYwMTAxMDAwMDAwKzAxJzAwJykKPj4KZW5kb2JqCnhy
+ZWYKMCA5CjAwMDAwMDAwMDAgNjU1MzUgZiAKMDAwMDAwMDAxNSAwMDAwMCBuIAowMDAwMDAwMTAy
+IDAwMDAwIG4gCjAwMDAwMDAyMDUgMDAwMDAgbiAKMDAwMDAwMDI4NSAwMDAwMCBuIAowMDAwMDAx
+Mjk0IDAwMDAwIG4gCjAwMDAwMDEzOTYgMDAwMDAgbiAKMDAwMDAwMTQ5MyAwMDAwMCBuIAowMDAw
+MDAxNTkwIDAwMDAwIG4gCnRyYWlsZXIKPDwKL1NpemUgOQovUm9vdCAyIDAgUgovSW5mbyA4IDAg
+UgovSUQgWzw5MDQxQkUzNzJFRjBCMUUzNkY5QjFCOUE0RUJENEJGMj48OTA0MUJFMzcyRUYwQjFF
+MzZGOUIxQjlBNEVCRDRCRjI+XQo+PgpzdGFydHhyZWYKMTY1MQolJUVPRgo=
+
+--grens-order--
+
+--grens-doorgestuurd--
