@@ -140,4 +140,4 @@ def schrijf_sjabloon(df: pd.DataFrame, pad: str | Path) -> None:
     df = df.copy()
     for k in df.select_dtypes(include=["object", "string"]).columns:
         df[k] = df[k].map(lambda v: "'" + v if isinstance(v, str) and v.startswith(inlezen.FORMULETEKENS) else v)
-    df.to_csv(pad, sep=";", decimal=",", date_format="%d-%m-%Y", index=False)
+    df.to_csv(pad, sep=";", decimal=",", date_format="%d-%m-%Y", index=False, lineterminator="\n")
