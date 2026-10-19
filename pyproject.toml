@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "weekstaat"
-version = "0.2.0"
+version = "0.3.0"
 description = "Legt gefactureerde uren naast de orders van de opdrachtgever en de bank, en laat zien waar het niet aansluit."
 readme = "README.md"
 license = { text = "MIT" }
@@ -20,6 +20,9 @@ weekstaat = "weekstaat.cli:main"
 
 [tool.setuptools]
 packages = ["weekstaat"]
+
+[tool.setuptools.package-data]
+weekstaat = ["webapp/*"]
 
 [tool.ruff]
 line-length = 120

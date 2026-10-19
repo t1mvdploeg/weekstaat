@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="nl" data-theme="light">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <title>Weekstaat</title>
+  <link rel="icon" href="beeldmerk.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+  <script src="app.js" defer></script>
+</head>
+<body>
+<a class="skip-link" href="#main">Naar inhoud</a>
+<header class="topbar">
+  <a class="brand" href="#dossier" aria-label="Weekstaat, naar het dossier"><img class="logo-light" src="logo-licht.svg" alt="Weekstaat"><img class="logo-dark" src="logo-donker.svg" alt="Weekstaat"></a>
+  <div class="top-context"><span class="context-line"></span>Aansluiting uren &amp; betalingen</div>
+  <div class="top-actions"><button class="icon-button" id="theme-toggle" aria-label="Donkere weergave inschakelen" title="Weergave wijzigen"></button></div>
+</header>
+<div class="app-layout">
+  <aside class="sidebar">
+    <div class="dossier-label">HUIDIG DOSSIER</div>
+    <div class="dossier-name" id="dossier-name">Nog geen dossier</div>
+    <nav aria-label="Hoofdnavigatie" id="navigation"></nav>
+    <div class="sidebar-bottom"><div class="source-status"><span class="status-dot"></span>Draait alleen op deze computer</div><p>Van gewerkte dag<br>tot verklaard verschil.</p><div class="sidebar-note" id="versie">Weekstaat</div></div>
+  </aside>
+  <main id="main" tabindex="-1"></main>
+</div>
+<dialog id="detail-dialog" aria-labelledby="dialog-title"></dialog>
+</body>
+</html>

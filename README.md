@@ -35,6 +35,16 @@ weekstaat aansluiten voorbeeld
 
 In `uitvoer/` staan daarna de overzichten en `bevindingen.csv`.
 
+## Webapp
+
+```bash
+weekstaat web
+```
+
+Opent op `http://127.0.0.1:8710` een scherm om een dossier te kiezen (een map op je computer, vooraf ingevuld met `voorbeeld/`, of bestanden uit de browser), de aansluiting te draaien, de uitkomst en bevindingen te bekijken en de Excel-bestanden te downloaden. De server luistert alleen op je eigen computer en niets wordt verstuurd; uploads staan in een tijdelijke map die verdwijnt als je hem stopt. Een andere poort kies je met `--poort`.
+
+![De uitkomst voor de voorbeeldset in de webapp](docs/webapp.png)
+
 ## Wat je krijgt
 
 - **Per medewerker** `Overzicht <naam>.xlsx`: vijf hoofdbladen (Stand, Zonder order, Debiteurenkaart, Per periode, Verschillen) en verborgen bladen met het detail. Op Verschillen stelt de tool voor wie aan zet is; je eigen keuze blijft staan als je opnieuw draait.

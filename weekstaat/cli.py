@@ -12,7 +12,7 @@ from pathlib import Path
 import pandas as pd
 from openpyxl.utils.exceptions import InvalidFileException
 
-from . import aansluiten, bevindingen, dossier, instellingen, omzetten, overzicht, totaal, werkboek
+from . import aansluiten, bevindingen, dossier, instellingen, omzetten, overzicht, totaal, web, werkboek
 
 log = logging.getLogger("weekstaat")
 
@@ -83,7 +83,8 @@ def _csv(pad: str, verwacht: str) -> None:
         raise ValueError(f"{pad}: dit is een Excel-bestand. Verwacht {verwacht} als .csv")
 
 
-def _aansluiten(args: argparse.Namespace) -> None:
+def _aansluiten(args: argparse.Namespace) -> dict[str, pd.DataFrame]:
+    """Schrijft de overzichten; geeft per medewerker de samenvatting terug (de webapp toont die)."""
     map_, uit = Path(args.map), Path(args.uit)
     d = dossier.lees(map_)
     if uit.exists() and not uit.is_dir():
@@ -99,6 +100,7 @@ def _aansluiten(args: argparse.Namespace) -> None:
     )
     # eerst alle overzichten (een bestaand overzicht wordt gelezen voor de keuze van de gebruiker, daarna overschreven)
     stukken = []
+    samenvattingen = {}
     for naam in namen:
         a = aansluiten.sluit_aan(
             d.uren, d.kop, d.regels, naam, d.inst, bankregels=d.bank, vervallen=d.vervallen, saldo=d.saldo(naam)
@@ -114,6 +116,7 @@ def _aansluiten(args: argparse.Namespace) -> None:
             werkboek.schrijf(o, opmerkingen[opmerkingen.medewerker == o.medewerker].reset_index(drop=True), pad)
         print(f"\n{_toon(o.medewerker)}  ->  {_toon(str(pad))}")
         print(_tabel(a.samenvatting()))
+        samenvattingen[o.medewerker] = a.samenvatting()
     pad_totaal = uit / "Overzicht totaal.xlsx"
     with _schrijven(pad_totaal):
         totaal.schrijf(overzichten, opmerkingen, bevindingen.acties(gevonden, d, korte), pad_totaal)
@@ -121,6 +124,7 @@ def _aansluiten(args: argparse.Namespace) -> None:
         bevindingen.schrijf_csv(gevonden, uit / "bevindingen.csv")
     print(f"\nTotaal van alle medewerkers  ->  {_toon(str(pad_totaal))}")
     print(f"{len(gevonden)} bevindingen  ->  {_toon(str(uit / 'bevindingen.csv'))}")
+    return samenvattingen
 
 
 def _omzetten_uren(args: argparse.Namespace) -> None:
@@ -164,6 +168,10 @@ def main(argv: list[str] | None = None) -> int:
     a.add_argument("--uit", default="uitvoer", help="map voor de overzichten (standaard: uitvoer)")
     a.add_argument("--medewerker", action="append", help="alleen deze medewerker; mag vaker")
     a.set_defaults(doe=_aansluiten)
+
+    w = sub.add_parser("web", help="open de webapp: bronnen kiezen, aansluiten, uitkomst bekijken en downloaden")
+    w.add_argument("--poort", type=int, default=8710, help="poort op 127.0.0.1 (standaard: 8710)")
+    w.set_defaults(doe=lambda args: web.serveer(args.poort))
 
     u = sub.add_parser("omzetten-uren", help="bouw een urenrapport uit Salesforce om naar het sjabloon uren.csv")
     u.add_argument("export", help="het rapport als .xlsx")
